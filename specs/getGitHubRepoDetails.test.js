@@ -90,6 +90,5 @@ describe('GitHub', () => {
         await page.screenshot({
             path: './screenshots/all-repo-details.png'
         });
-
     });
 });
