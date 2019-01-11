@@ -1,16 +1,26 @@
 {
-  "name": "puppeteer-nodejs-javascript",
+  "name": "jest-puppeteer-javascript",
   "version": "1.0.0",
-  "description": "This is Test Automation framework designed using Puppeteer, NodeJS and Javascript.",
-  "homepage": "https://github.com/qaloop/puppeteer-nodejs-javascript",
+  "description": "This is Test Automation framework designed using Jest, Puppeteer, and Javascript.",
+  "homepage": "https://github.com/qaloop/jest-puppeteer-javascript",
   "main": "index.js",
   "dependencies": {
-    "puppeteer": "^1.11.0"
+    "puppeteer": "^1.11.0",
+    "jest": "^23.6.0"
   },
   "devDependencies": {
     "@types/node": "^10.12.18"
   },
+  "jest": {
+    "testMatch": [
+      "**/specs/*.test.js"
+    ]
+  },
+  "scripts": {
+    "test": "jest"
+  },
   "keywords": [
+    "jest",
     "puppeteer",
     "javascript",
     "angular",
@@ -24,6 +34,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qaloop/puppeteer-nodejs-javascript.git"
+    "url": "https://github.com/qaloop/jest-puppeteer-javascript.git"
   }
 }

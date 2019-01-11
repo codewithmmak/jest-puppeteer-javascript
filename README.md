@@ -1,7 +1,7 @@
-![Puppeteer, NodeJS and Javascript](./images/puppeteer-nodejs-javascript.png?raw=true "Puppeteer, NodeJS and Javascript")
+![Jest, Puppeteer, and Javascript](./images/jest-puppeteer-javascript.png?raw=true "Jest, Puppeteer, and Javascript")
 
-# Puppeteer, NodeJS and Javascript Test Automation Examples
-This is sample Test Automation framework designed using Puppeteer, NodeJS and Javascript. And in this framework we will see some basic working examples for learning.
+# Jest, Puppeteer, and Javascript Test Automation Examples
+This is sample Test Automation framework designed using Jest, Puppeteer, and Javascript. And in this framework we will see some basic working examples for learning.
 
 ## To Get Started
 
@@ -23,10 +23,10 @@ This is sample Test Automation framework designed using Puppeteer, NodeJS and Ja
 * Go to Project root directory and run command: `npm update`
 
 ### Sample Test Results
-![Puppeteer, NodeJS and Javascript Test Results](./images/console-test-results.png?raw=true "Puppeteer, NodeJS and Javascript Test Results")
+![Jest, Puppeteer, and Javascript Test Results](./images/console-test-results.png?raw=true "Jest, Puppeteer, and Javascript Test Results")
 
 
-## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/2019/01/07/test-automation-using-puppeteer-nodejs-and-javascript/ "Step by Step installation instruction for Beginners")
+## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/2019/01/07/test-automation-using-jest-puppeteer-and-javascript/ "Step by Step installation instruction for Beginners")
 
 
 ## Visit my [Blog](https://qaloop.tk/blog/ "Blog")
