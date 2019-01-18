@@ -64,7 +64,7 @@ describe('GitHub', () => {
         console.log('Page title is: ' + title);
     });
 
-    fit('should get all repository details', async () => {
+    it('should get all repository details', async () => {
         const browser = await puppeteer.launch();
 
         const page = await browser.newPage();
