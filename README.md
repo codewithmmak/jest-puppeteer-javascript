@@ -26,7 +26,7 @@ This is sample Test Automation framework designed using Jest, Puppeteer, and Jav
 ![Jest, Puppeteer, and Javascript Test Results](./images/console-test-results.png?raw=true "Jest, Puppeteer, and Javascript Test Results")
 
 
-## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/2019/01/07/test-automation-using-jest-puppeteer-and-javascript/ "Step by Step installation instruction for Beginners")
+## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/test-automation-using-jest-puppeteer-and-javascript/ "Step by Step installation instruction for Beginners")
 
 
 ## Visit my [Blog](https://qaloop.tk/blog/ "Blog")
