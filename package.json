@@ -9,7 +9,7 @@
     "jest": "^23.6.0"
   },
   "devDependencies": {
-    "@types/node": "^10.12.18"
+    "@types/node": "^10.14.13"
   },
   "jest": {
     "testMatch": [
