@@ -5,11 +5,11 @@
   "homepage": "https://github.com/qaloop/jest-puppeteer-javascript",
   "main": "index.js",
   "dependencies": {
-    "puppeteer": "^1.11.0",
-    "jest": "^23.6.0"
+    "jest": "^24.8.0",
+    "puppeteer": "^1.11.0"
   },
   "devDependencies": {
-    "@types/node": "^10.14.13"
+    "@types/node": "^10.14.14"
   },
   "jest": {
     "testMatch": [
