@@ -9,6 +9,7 @@
     "puppeteer": "^1.20.0"
   },
   "devDependencies": {
+    "node-notifier": ">=8.0.1",
     "@types/node": "^10.17.56"
   },
   "jest": {
