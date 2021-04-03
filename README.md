@@ -6,10 +6,8 @@ This is sample Test Automation framework designed using Jest, Puppeteer, and Jav
 ## To Get Started
 
 ### Pre-requisites
-* Download and install Node.js:
-  * [Install Node.JS](https://qaloop.tk/blog/install-node-js/ "Install Node.JS")
-* Optional - Download and install any Text Editor like Visual Code/Sublime/Brackets
-  * [Install Visual Studio Code](https://qaloop.tk/blog/install-visual-studio-code/ "Install Visual Studio Code")
+* Download and install Node.js
+* Download and install any Text Editor like Visual Code/Sublime/Brackets
 
 ### Setup Scripts 
 * Clone the repository into a folder
@@ -24,9 +22,3 @@ This is sample Test Automation framework designed using Jest, Puppeteer, and Jav
 
 ### Sample Test Results
 ![Jest, Puppeteer, and Javascript Test Results](./images/console-test-results.png?raw=true "Jest, Puppeteer, and Javascript Test Results")
-
-
-## [Step by Step installation instruction for Beginners](https://qaloop.tk/blog/test-automation-using-jest-puppeteer-and-javascript/ "Step by Step installation instruction for Beginners")
-
-
-## Visit my [Blog](https://qaloop.tk/blog/ "Blog")
