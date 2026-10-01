@@ -5,7 +5,7 @@
   "homepage": "https://github.com/codewithmmak/jest-puppeteer-javascript",
   "main": "index.js",
   "dependencies": {
-    "jest": "^29.0.0",
+    "jest": "^30.0.0",
     "puppeteer": "^20.0.0"
   },
   "devDependencies": {
